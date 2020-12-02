@@ -1,113 +1,80 @@
 # Introduction
 
-## Enhanced Customer Care with IBM Watson services
+## Abstract
 
-Welcome to our workshop! In this workshop we'll be using {IBM Cloud \| Cloud Pak for Data} to enhance customer care with Watson Services. The goals of this workshop are:
+One of the most common issues organizations face when they are trying to implement NLP in their business is that it requires the business functions and the technical functions to stand on common ground: both functions need to understand the role they play and what they need to bring to the table.
 
-* Get familiar with using Watson services on {IBM Cloud \| Cloud Pak for Data}
-* Create a customer care chatbot with Watson Assistant
-* Add the chatbot to an application
-* Use Watson Discovery to extract information from documents
-* Enhance our chatbot by integrating Watson Discovery
-* Train Discovery with smart document understanding
-* Add custom domain language understanding with Watson Knowledge Studio
-* Add support for speech input and output
-* Include language translation for input and output
-* Extend our chatbot with human operators
+The objective of this workshop is to create the common ground for the two functions in order to increase the speed of implementation of a NLP services in the organization. By working together on a real use case, they will develop a common understanding of what can be achieved using IBM's NLP services and how/what each function needs to bring to the table.
 
-### About this workshop
+## Learning outcomes
+
+At the end of this workshop, both functions will have a common understanding and will have developed a common language to guide them through the process of extracting business insights from your organization's  using Watson Discovery Services. They will have learned the basics of Natural Language Processing, the functions available in Watson Discovery and will have used Watson Discovery to get insights from a pre-defined set of documents.
+
+## About this workshop
 
 The introductory page of the workshop is broken down into the following sections:
 
 * Agenda
 * Compatability
 * About Cloud Pak for Data
-* Credits
 
 ### Agenda
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Overview</td>
-      <td style="text-align:left">
-        <ol>
-          <li>Workshop overview</li>
-          <li>Working with services on IBM Cloud or IBM Cloud Pak for Data</li>
-          <li>Introduction to Watson Assistant</li>
-          <li>Introduction to Watson Discovery</li>
-          <li>Introduction to Watson Speech Services</li>
-          <li>Review workshop goals</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Set up</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Registering accounts and provisioning services</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Watson Assistant</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Build a chatbot with Watson Assistant
-            <ul>
-              <li>Using the Watson Assistant UI</li>
-              <li>Leveraging the content catalog</li>
-              <li>Creating intents</li>
-              <li>Creating entities</li>
-              <li>Creating a dialog</li>
-              <li>Testing a dialog skill</li>
-              <li>Using varied responses</li>
-              <li>Using context to save state</li>
-              <li>Collecting information with slots</li>
-              <li>Handling digressions</li>
-            </ul>
-          </li>
-          <li>Add your chatbot to an app
-            <ul>
-              <li>Using the WebChat widget</li>
-              <li>Learn to use the API</li>
-              <li>Learn to use the SDK</li>
-              <li>Using the SDK in a web app</li>
-            </ul>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Watson Discovery</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Getting started with Watson Discovery</li>
-          <li>Add Discovery to an app</li>
-          <li>Add Discovery to your chatbot</li>
-          <li>Smart document understanding</li>
-          <li>Understanding custom domain languages</li>
-          <li>Integration patterns for developers</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Speech Services</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Add speech input/output to your chatbot with Watson speech services</li>
-          <li>Add Language Translator (input/output)</li>
-          <li>Extend your chatbot with human operators</li>
-          <li>Learn about WAVI</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Topic | Duration |
+| ------------- |-------------|
+| Intro to Natural Language Processing and Understanding | 30 mins |
+| Learn the basics of extracting business insight using Watson Discovery | 1 hour |
+| Hands-on end-to-end use case | 2 hours |
+| The potential | 1 hour |
 
+### Intro to Natural Language Processing and Understanding
+
+**Learning outcomes:**  Understand the basic definitions and functions of NLP and key elements for a successful implementation
+
+**Intro:** [Watson Discovery Business Demo](https://www.ibm.com/watson/natural-language-processing)
+
+**Content:**
+* Common language structures key to NLP
+* Success factors in the implementation of a NLP solution
+  * Introduction to a business use case
+  * Exercise: Define Key elements for the success of the project
+
+### Learn the basics of extracting business insight using Watson Discovery
+
+**Learning outcomes:** At the end of this module, attendees will understand all the different types of data, and the type of functions and queries they can apply to learn the most from the data they are trying to analyze.
+
+**Content:**
+
+* What is Watson Discovery and how does it work
+* Hands- on walk through 1 Airbnb example of using Watson Discovery to extract insights (Like the DTE demos)
+  * Uploading and configuring data
+  * Extracting basic insights
+
+### Hands on end-to-end use case
+
+**Learning outcomes:**  At the end of this module, attendees will be able to apply what they learned in the previous module to extract information from a pre-defined data set. Compete for the fastest deployment (teamwork) and for the most number of conclusions derived through the use of the tool.
+
+**Content:**
+* WKS, SDU and WD
+* Uploading and configuring data
+* Extracting basic insights
+
+### The potential
+
+**Learning outcomes:** Leverage existing code patterns to develop applications
+
+* Building applications  leveraging existing code patterns.
+* Discussion: Additional use cases
+* Conclusion
+
+### Compatability
+
+This draft is based on IBM Cloud services.
+
+* TBD: Lite vs Premium Watson Discovery
+* TBD: IBM Cloud Pak for Data vs IBM Cloud Watson Discovery
+* TBD: Versions
+
+### About Cloud Pak for Data
+
+TODO: General info and links for CPD could be copied into here
