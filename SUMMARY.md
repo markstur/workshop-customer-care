@@ -4,7 +4,7 @@
 
 ## Natural Language Processing
 
-* [Workshop overview](intro_to_nlp/README.md)
+* [Intro to NLP](intro_to_nlp/README.md)
 
 ## Set up
 
@@ -12,7 +12,7 @@
 
 ## Watson Discovery
 
-* [Getting started with Watson Discovery](watson-discovery/getting-started-with-watson-discovery.md)
+* [Introduction to Watson Discovery](watson-discovery/introduction-watson-discovery/index.md)
 * [Add Discovery to an app](watson-discovery/add-discovery-to-an-app.md)
 * [Add Discovery to your Assistant](watson-discovery/add-discovery-to-your-assistant.md)
 * [Smart Document Understanding](watson-discovery/smart-document-understanding.md)
