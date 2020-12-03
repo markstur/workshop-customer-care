@@ -14,6 +14,7 @@
 
 * [Introduction to Watson Discovery](watson-discovery/introduction-watson-discovery/index.md)
 * [Smart Document Understanding](watson-discovery/analyze-and-answer-policy-questions-with-smart-document-understanding/index.md)
+* [Watson Knowledge Studio](watson-discovery/build-a-recommendation-engine-with-watson-natural-language-understanding/index.md)
 * [Add Discovery to an app](watson-discovery/add-discovery-to-an-app.md)
 * [Add Discovery to your Assistant](watson-discovery/add-discovery-to-your-assistant.md)
 * [Custom domain language understanding](watson-discovery/custom-domain-language-understanding.md)
