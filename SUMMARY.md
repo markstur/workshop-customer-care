@@ -5,6 +5,7 @@
 ## Intro to Natural Language Processing and Understanding
 
 * [Workshop overview](intro_to_nlp/README.md)
+
 ## Overview <a id="ibm-cloud-and-or-ibm-cloud-pak-for-data"></a>
 
 * [Workshop overview](ibm-cloud-and-or-ibm-cloud-pak-for-data/workshop-overview.md)
