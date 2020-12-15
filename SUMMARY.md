@@ -15,17 +15,11 @@
 * [Introduction to Watson Discovery](watson-discovery/introduction-watson-discovery/index.md)
 * [Learn the basics of extracting business insight](watson-discovery/create-an-app-to-perform-intelligent-searches-on-data/index.md)
 * [Smart Document Understanding](watson-discovery/analyze-and-answer-policy-questions-with-smart-document-understanding/index.md)
-* [Watson Knowledge Studio](watson-discovery/build-a-recommendation-engine-with-watson-natural-language-understanding/index.md)
-* [Add Discovery to an app](watson-discovery/add-discovery-to-an-app.md)
-* [Add Discovery to your Assistant](watson-discovery/add-discovery-to-your-assistant.md)
-* [Custom domain language understanding](watson-discovery/custom-domain-language-understanding.md)
-* [Integration patterns for developers](watson-discovery/search-skill-vs-webhook-vs-context-action.md)
+* [Custom domain language understanding](watson-discovery/build-a-recommendation-engine-with-watson-natural-language-understanding/index.md)
 
 ## Overview <a id="ibm-cloud-and-or-ibm-cloud-pak-for-data"></a>
 
 * [Workshop overview](ibm-cloud-and-or-ibm-cloud-pak-for-data/workshop-overview.md)
 * [Working with IBM Cloud or IBM Cloud Pak for Data](ibm-cloud-and-or-ibm-cloud-pak-for-data/working-with-ibm-cloud-or-ibm-cloud-pak-for-data.md)
-* [Introduction to Watson Assistant](ibm-cloud-and-or-ibm-cloud-pak-for-data/introduction-to-watson-assistant.md)
 * [Introduction to Watson Discovery](ibm-cloud-and-or-ibm-cloud-pak-for-data/introduction-to-watson-discovery.md)
-* [Introduction to Watson speech services](ibm-cloud-and-or-ibm-cloud-pak-for-data/introduction-to-watson-speech-services.md)
 * [Review workshop goals](ibm-cloud-and-or-ibm-cloud-pak-for-data/review-workshop-goals.md)

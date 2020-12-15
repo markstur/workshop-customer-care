@@ -286,7 +286,3 @@ In the sentiment section, you see that the review was labeled as positive. And i
     "confidence": 0.994622
   },
 ```
-
-## Conclusion
-
-In this tutorial, you learned how to annotate a set of documents to accurately classify reviews. In the [accompanying pattern](https://developer.ibm.com/patterns/build-a-virtual-insurance-assistant-to-process-insurance-claims/), you'll see how to aggregate the natural language understanding results for each mechanic and determine the best mechanic for a given repair type. This tutorial is part of the [Build a customer care solution](https://developer.ibm.com/articles/insurance-industry-customer-care-solution) to help your customers manage their insurance claims and get automobile service information.
