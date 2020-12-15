@@ -1,58 +1,3 @@
----
-draft: false
-
-authors:
-  - email: 'rich.hagarty@ibm.com'
-    name: 'Rich Hagarty'
-
-pta:
-  - "cognitive, data, and analytics"
-
-pwg:
-  - "watson discovery"
-
-completed_date: '2019-07-08'
-last_updated: '2020-03-05'
-
-abstract: "Get an overview of Watson Discovery and learn how it can help you unlock hidden value in data to find answers, monitor trends, and surface patterns."
-excerpt: "Get an overview of Watson Discovery and learn how it can help you unlock hidden value in data to find answers, monitor trends, and surface patterns."
-meta_description: "Get an overview of Watson Discovery and learn how it can help you unlock hidden value in data to find answers, monitor trends, and surface patterns."
-
-meta_keywords: 'discovery, watson'
-primary_tag: artificial-intelligence
-
-tags:
-  - cloud
-  - "machine-learning"
-  - deep-learning
-  - "natural-language-processing"
-
-meta_title: "Introduction to Watson Discovery"
-title: "Introduction to Watson Discovery"
-subtitle: "Learn the basics of the Watson Discovery Service"
-components:
-  - "watson-discovery"
-
-related_links:
-  - title: IBM Watson Discovery
-    url: "https://www.ibm.com/watson/services/discovery/"
-
-services:
-  - "discovery"
-
----
-
-**This article is part of the [Watson Discovery learning path](https://developer.ibm.com/series/learning-path-watson-discovery)**.
-
-| Level | Topic | Type |
-| --- | --- | --- |
-| **100** | **Introduction to Watson Discovery** | Article |
-| 101 | [Create a cognitive news search app](https://developer.ibm.com/patterns/create-a-cognitive-news-search-app/) | Code pattern |
-| 201 | [Create an app to perform intelligent searches on data](https://developer.ibm.com/patterns/create-an-app-to-perform-intelligent-searches-on-data/) | Code pattern |
-| 301 | [Get customer sentiment insights from product reviews](https://developer.ibm.com/patterns/get-customer-insights-from-product-reviews/) | Code pattern |
-| 401a | Enhance customer helpdesks with Smart Document Understanding using [webhooks in Watson Assistant](https://developer.ibm.com/patterns/enhance-customer-help-desk-with-smart-document-understanding) | Code pattern |
-| 401b | Enhance customer helpdesks with Smart Document Understanding using the [Watson Assistant search skill](https://developer.ibm.com/patterns/enhance-customer-helpdesk-with-smart-document-understanding-using-search-skill) | Code pattern |
-
 ## Introduction
 
 With IBM Watson Discovery, you can ingest, normalize, enrich, and search your unstructured data (JSON, HTML, PDF, Word, and more) with speed and accuracy. It packages core Watson APIs such as Natural Language Understanding and Document Conversion along with UI tools that enable you to easily upload, enrich, and index large collections of private or public data.
@@ -174,9 +119,3 @@ discovery.query(queryParams)
     console.log('error:', err);
   });
 ```
-
-## Summary
-
-This article is the first part of a [learning path](https://developer.ibm.com/series/learning-path-watson-discovery) that guides you through building fully featured web apps that are built on the Watson Discovery Service. Within this learning path, you'll get a chance to work with advanced Discovery features, as well as learn how to integrate Discovery with other Watson services.
-
-So let's get started. The [first step](https://developer.ibm.com/patterns/create-a-cognitive-news-search-app/) will be to build a simple app that accesses Watson Discovery News.
