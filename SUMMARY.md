@@ -13,7 +13,7 @@
 ## Watson Discovery
 
 * [Introduction to Watson Discovery](watson-discovery/introduction-watson-discovery/index.md)
-* [Part I: Learn the basics of extracting business insight](watson-discovery/create-an-app-to-perform-intelligent-searches-on-data/index.md)
+* [Learn the basics of extracting business insight](watson-discovery/create-an-app-to-perform-intelligent-searches-on-data/index.md)
 * [Smart Document Understanding](watson-discovery/analyze-and-answer-policy-questions-with-smart-document-understanding/index.md)
 * [Watson Knowledge Studio](watson-discovery/build-a-recommendation-engine-with-watson-natural-language-understanding/index.md)
 * [Add Discovery to an app](watson-discovery/add-discovery-to-an-app.md)
@@ -29,8 +29,3 @@
 * [Introduction to Watson Discovery](ibm-cloud-and-or-ibm-cloud-pak-for-data/introduction-to-watson-discovery.md)
 * [Introduction to Watson speech services](ibm-cloud-and-or-ibm-cloud-pak-for-data/introduction-to-watson-speech-services.md)
 * [Review workshop goals](ibm-cloud-and-or-ibm-cloud-pak-for-data/review-workshop-goals.md)
-
-## Watson Assistant
-
-* [Build a chatbot with Watson Assistant](watson-assistant/getting-started-with-watson-assistant.md)
-* [Add your chatbot to an app](watson-assistant/add-your-assistant-to-an-app.md)
