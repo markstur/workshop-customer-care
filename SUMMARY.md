@@ -13,6 +13,7 @@
 ## Watson Discovery
 
 * [Introduction to Watson Discovery](watson-discovery/introduction-watson-discovery/index.md)
+* [Part I: Learn the basics of extracting business insight](watson-discovery/create-an-app-to-perform-intelligent-searches-on-data/index.md)
 * [Smart Document Understanding](watson-discovery/analyze-and-answer-policy-questions-with-smart-document-understanding/index.md)
 * [Watson Knowledge Studio](watson-discovery/build-a-recommendation-engine-with-watson-natural-language-understanding/index.md)
 * [Add Discovery to an app](watson-discovery/add-discovery-to-an-app.md)
